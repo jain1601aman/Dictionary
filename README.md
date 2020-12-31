@@ -1,5 +1,5 @@
 # Dictionary
-**_This is a Chrome Extension created using Javascript that searches word meaning on the same page on modal box._**
+**_This is a Chrome Extension created using Javascript that searches word meaning on any web page and displays meaning with examples in the modal box on the same page._**
 ## Embedded Dictionary for Searching Word Meanings
 ### Instructions to use:
 1. Select Word by Dragging mouse over it.
