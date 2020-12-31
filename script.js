@@ -24,7 +24,7 @@ function modal(text)
         var ft = document.createElement("div");
         ft.setAttribute("class","matlab-footer");
         var url = "https://dictionaryapi.dev/";
-        ft.innerHTML = '<h3>Dictioary powered by <a href="'+url+'" target ="_blank">Dictionaryapi.dev</a>.</h3>';
+        ft.innerHTML = '<h3>Dictionary powered by <a href="'+url+'" target ="_blank">Dictionaryapi.dev</a>.</h3>';
         //linking
         content.appendChild(bdy);
         ft.appendChild(close);
